@@ -1,1 +1,2 @@
 # Secure-Feedback-System
+A web application that allows students to provide feedback. The system is equipped with a login/logout system for further credibility and security. There are 3 roles: students, teachers, admin. Students can only provide feedback to the course. Teachers can see the feedback results, add/remove students, and see the list of students. The admin can add/remove teachers, see the list of students and teachers, as well as their login credentials.
